@@ -1,5 +1,6 @@
 # ДЗ урок 4 Организация программ module_1_4.py
 my_string = input("Вести название:")
+print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
 print("Вести название:".replace(" ", ""))
